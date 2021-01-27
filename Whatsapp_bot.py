@@ -11,7 +11,7 @@ import socket
 
 message_text='hi' # message you want to send
 no_of_message=10 # no. of time you want the message to be send
-moblie_no_list=[919461694552] # list of phone number can be of any length use comma for multiple mobile no.
+moblie_no_list=[91**********] # list of phone number can be of any length use comma for multiple mobile no.
 
 def element_presence(by,xpath,time):
     element_present = EC.presence_of_element_located((By.XPATH, xpath))
